@@ -1,6 +1,9 @@
 {
   "name": "as11-note-taker",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.18.0"
+  },
   "description": "Note Taker using Express.js",
   "main": "server.js",
   "scripts": {
