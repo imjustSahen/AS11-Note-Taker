@@ -32,7 +32,7 @@ My task was to build an application that allows a user to write and save notes, 
 
 ## <ins>Demo
 
-[Recording of Application](https://drive.google.com)
+[Recording of Application](https://drive.google.com/file/d/1djn6Bc1l4-48oILf2lwg4j4BZPPL50Or/view?usp=sharing)
 
 ## <ins>Credits
 
